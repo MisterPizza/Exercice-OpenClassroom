@@ -9,6 +9,7 @@ public class ScriptJava{
          System.out.println("Tour " + i);
          resultat += i;
       }
-      System.out.println(resultat); 
+      System.out.println(resultat);
+      //Ceci est un changement par rapport au programme initial 
    }
 }
